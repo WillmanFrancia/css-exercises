@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.redones.odd {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    background-color: hsl(350, 22%, 68%);
+}
+
+#blueone {
+    color: hsl(240, 72%, 49%);
+    font-size:36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#greenone{
+    background-color: hsl(120, 35%, 43%);
+    font-size: 24px;
+    font-weight: bold;
+}
